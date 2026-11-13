@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Binaries
+*.dll
+*.exe
+
+# Voxtral TTS generated files
+/Voxtral TTS/models/*
+/Voxtral TTS/outputs/*
