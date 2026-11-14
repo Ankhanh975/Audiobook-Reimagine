@@ -6,6 +6,21 @@ __pycache__/
 *.dll
 *.exe
 
+# Model weights and checkpoints
+*.bin
+*.ckpt
+*.ggml
+*.gguf
+*.h5
+*.onnx
+*.pt
+*.pth
+*.safetensors
+*.tflite
+
+# Downloaded model caches
+**/.cache/
+
 # Voxtral TTS generated files
 /Voxtral TTS/models/*
 /Voxtral TTS/outputs/*
